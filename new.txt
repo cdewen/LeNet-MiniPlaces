@@ -1,0 +1,55 @@
+=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 10)
+Evaluting the model ...
+
+[Test set] Epoch: 10, Accuracy: 16.18%
+
+Evaluation took 0.81 sec
+=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 9)
+Evaluting the model ...
+
+[Test set] Epoch: 9, Accuracy: 17.61%
+
+Evaluation took 0.78 sec
+=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 9)
+Evaluting the model ...
+
+[Test set] Epoch: 9, Accuracy: 18.04%
+
+Evaluation took 0.79 sec
+=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 3)
+Evaluting the model ...
+
+[Test set] Epoch: 3, Accuracy: 4.94%
+
+Evaluation took 0.79 sec
+=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 6)
+Evaluting the model ...
+
+[Test set] Epoch: 6, Accuracy: 13.78%
+
+Evaluation took 0.80 sec
+=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 20)
+Evaluting the model ...
+
+[Test set] Epoch: 20, Accuracy: 19.92%
+
+Evaluation took 0.79 sec=> Loading from cached file ./data/miniplaces/cached_val.pkl ...
+=> loading checkpoint './outputs/model_best.pth.tar'
+=> loaded checkpoint './outputs/model_best.pth.tar' (epoch 5)
+Evaluting the model ...
+
+[Test set] Epoch: 5, Accuracy: 12.90%
+
+Evaluation took 0.81 sec
